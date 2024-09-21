@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @limathiago2300
+- 👀 I’m interested in Develop Python, Html skills
+- 🌱 I’m currently learning systems analysis and development
+- 📫 You can contact me via email: thiagoantoniodealmeidalima@gmail.com
+- ⚡ Fun fact: i'm a video editor
